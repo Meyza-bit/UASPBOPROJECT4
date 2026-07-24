@@ -1,7 +1,7 @@
 import tkinter as tk
 
 # Meng-import modul dari sub-folder models dan views
-from model.model import Database as DatabaseModel
+from model.model import DatabaseModel
 from view.view import DashboardPage, BukuPage, AnggotaPage, TransaksiPage
 
 
